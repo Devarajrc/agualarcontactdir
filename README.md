@@ -1,6 +1,5 @@
 # Angular Material
 
-This project is the application we build throughout the [pluralsight course Angular Material](https://www.pluralsight.com/courses/angular-material).
 
 
 ## Screenshots
